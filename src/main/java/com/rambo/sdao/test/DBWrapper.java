@@ -1,4 +1,4 @@
-package com.rambo.sdao;
+package com.rambo.sdao.test;
 
 import java.sql.*;
 import java.util.ArrayList;

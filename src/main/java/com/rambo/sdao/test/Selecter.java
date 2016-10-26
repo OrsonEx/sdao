@@ -1,4 +1,4 @@
-package com.rambo.sdao;
+package com.rambo.sdao.test;
 
 import com.rambo.sdao.annotation.TableName;
 import com.rambo.sdao.exception.DataOptException;

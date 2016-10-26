@@ -1,6 +1,6 @@
 package com.rambo.sdao.util;
 
-import com.rambo.sdao.DB;
+import com.rambo.sdao.test.DB;
 import oracle.sql.BLOB;
 
 import java.io.FileInputStream;

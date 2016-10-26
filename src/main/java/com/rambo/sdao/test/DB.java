@@ -1,4 +1,4 @@
-package com.rambo.sdao;
+package com.rambo.sdao.test;
 
 
 import com.rambo.sdao.util.Configuration;
